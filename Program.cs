@@ -4,7 +4,7 @@
 namespace homework_5
 {
     class Program
-    { //eofkfp'fkefp'efef
+    { 
         static void Main(string[] args)
         {
             Console.WriteLine("Введите количество цифр для расчета : ");
